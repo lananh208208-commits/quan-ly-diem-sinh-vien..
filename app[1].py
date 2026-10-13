@@ -76,7 +76,7 @@ st.bar_chart(bieudo, y="Tổng kết", use_container_width=True)
 st.divider()
 st.markdown(
     '<div style="text-align:center; color:gray; font-size:12px;">'
-    'Người tạo: Lê Thị Lan Anh | MSSV: ĐIỀN_MSSV_CỦA_BẠN'
+    'Người tạo: Lê Thị Lan Anh | MSSV: 038308008434'
     '</div>',
     unsafe_allow_html=True
 )
